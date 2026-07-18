@@ -1,6 +1,6 @@
 # Hi there, I'm Md Iqbal Hossain 👋
 
-### Industrial Engineer • Business Informatics Graduate • Data & Business Analytics Enthusiast
+### Industrial Engineer • Business Informatics Graduate • Business & Data Analytics Professional
 
 I enjoy transforming complex business and engineering problems into data-driven insights.
 
