@@ -10,6 +10,13 @@ To further strengthen my profile, I completed intensive professional training (*
 
 Today, my focus is on leveraging data to improve business processes, operational performance, and strategic decision-making.
 
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-0A66C2?style=for-the-badge)
+![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-512BD4?style=for-the-badge)
+![Data Engineering](https://img.shields.io/badge/Data_Engineering-FF6F00?style=for-the-badge)
+![Big Data](https://img.shields.io/badge/Big_Data-005571?style=for-the-badge)
+![Industrial Engineering](https://img.shields.io/badge/Industrial_Engineering-607D8B?style=for-the-badge)
+![Business Informatics](https://img.shields.io/badge/Business_Informatics-1565C0?style=for-the-badge)
+
 ---
 
 ## 🚀 About Me
