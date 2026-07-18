@@ -10,12 +10,18 @@ To further strengthen my profile, I completed intensive professional training (*
 
 Today, my focus is on leveraging data to improve business processes, operational performance, and strategic decision-making.
 
-![Data Analytics](https://img.shields.io/badge/Data_Analytics-0A66C2?style=for-the-badge)
-![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-512BD4?style=for-the-badge)
-![Data Engineering](https://img.shields.io/badge/Data_Engineering-FF6F00?style=for-the-badge)
-![Big Data](https://img.shields.io/badge/Big_Data-005571?style=for-the-badge)
-![Industrial Engineering](https://img.shields.io/badge/Industrial_Engineering-607D8B?style=for-the-badge)
-![Business Informatics](https://img.shields.io/badge/Business_Informatics-1565C0?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
